@@ -1,0 +1,899 @@
+{
+  "content": {
+    "brandName": "Blord Group",
+    "tagline": "Registered Fintech & Diversified Conglomerate",
+    "heroTitle": "Building Simple Solutions for Complex Problems.",
+    "heroSubtitle": "Blordgroup is a forward-thinking group of companies driving innovation in fintech and real estate, delivering simple, smart solutions that solve complex problems for businesses and individuals.",
+    "heroVideoUrl": "/assets/blord-video.mp4",
+    "heroStats": [
+      {
+        "id": "clients",
+        "value": "1.9+M",
+        "label": "Trusted clients around the globe"
+      },
+      {
+        "id": "properties",
+        "value": "100%",
+        "label": "Verified Properties in real estate"
+      },
+      {
+        "id": "uptime",
+        "value": "99.99%",
+        "label": "Uptime Guarantee"
+      }
+    ],
+    "innovationHeadline": "Where Innovation Meets Excellence",
+    "innovationSubtitle": "At Blord Group, we redefine the ordinary in fintech, turning innovative ideas into powerful solutions that speak directly to your financial needs",
+    "paymentsEyebrow": "EXPLORE POSSIBILITIES",
+    "paymentsTitle": "Manage your Payments with Blord Group.",
+    "paymentsBullets": [
+      "Pay Bills",
+      "Manage Payment Methods"
+    ],
+    "trustHeadline": "Thousands of users have faith in us",
+    "trustMetrics": [
+      {
+        "id": "crypto",
+        "value": "$120M",
+        "label": "Yearly Crypto Transactions"
+      },
+      {
+        "id": "billpoint",
+        "value": "₦4B",
+        "label": "Yearly Billpoint Operations"
+      }
+    ],
+    "chinaEyebrow": "GLOBAL REACH",
+    "chinaTitle": "Blord Group China",
+    "chinaImage": "/assets/images/blord-china-office-new.jpg",
+    "chinaSteps": [
+      {
+        "step": "01",
+        "title": "Procurement & Sourcing",
+        "description": "Connect with trusted suppliers and secure the best prices."
+      },
+      {
+        "step": "02",
+        "title": "Quality Check",
+        "description": "Inspect and verify goods before shipment."
+      },
+      {
+        "step": "03",
+        "title": "Flexible Payment",
+        "description": "Pay in Naira, USDT, or BTC."
+      },
+      {
+        "step": "04",
+        "title": "Shipping Support",
+        "description": "Coordinate packaging and delivery (shipping cost excluded)."
+      },
+      {
+        "step": "05",
+        "title": "Car Import Service",
+        "description": "Source and ship cars from China to Nigeria with full assistance."
+      }
+    ],
+    "coreFeaturesEyebrow": "Core Features",
+    "coreFeaturesTitle": "Features that help you run your business",
+    "coreFeatures": [
+      {
+        "id": "1",
+        "title": "Cryptocurrency Exchange",
+        "subtitle": "Blord Group offers a seamless, secure way for customers to exchange cryptocurrencies",
+        "image": "/assets/images/features/fintech-tower.jpg",
+        "alt": "Cryptocurrency Exchange"
+      },
+      {
+        "id": "2",
+        "title": "Social Media Growth",
+        "subtitle": "Famous helps creators, businesses and brands grow their audience and engagement across social media.",
+        "image": "/assets/images/features/social-growth.jpg",
+        "alt": "Social Media Growth"
+      },
+      {
+        "id": "3",
+        "title": "Secure Payment Processing",
+        "subtitle": "Billpoint enables users to handle all essential payments, including airtime etc",
+        "image": "/assets/images/features/fintech-tower.jpg",
+        "alt": "Secure Payment Processing"
+      },
+      {
+        "id": "4",
+        "title": "Secure Digital Wallet",
+        "subtitle": "Bitshop functions as a digital wallet, allowing users to store and manage cryptocurrencies securely.",
+        "image": "/assets/images/features/digital-wallet.jpg",
+        "alt": "Secure Digital Wallet"
+      },
+      {
+        "id": "5",
+        "title": "Fintech Solutions",
+        "subtitle": "Blord Group provides a variety of fintech services",
+        "image": "/assets/images/features/fintech-tower.jpg",
+        "alt": "Fintech Solutions"
+      },
+      {
+        "id": "6",
+        "title": "User-Centric, Reliable Apps",
+        "subtitle": "Blord Group is committed to customer-centric service and reliability",
+        "image": "/assets/images/features/fintech-tower.jpg",
+        "alt": "User-Centric, Reliable Apps"
+      }
+    ],
+    "products": [
+      {
+        "slug": "billpoint",
+        "name": "Billpoint",
+        "category": "Bills & Payments",
+        "logo": "/assets/logo/billpoint-logo-2026.png",
+        "tagline": "Pay every essential bill from one app.",
+        "summary": "Airtime, data, electricity & cable TV payments in seconds.",
+        "description": "Billpoint makes everyday payments simple. Buy airtime and data, pay for electricity and cable TV, and settle your essential bills in seconds. Built by Blord Group, Billpoint is fast, secure and available whenever you need it.",
+        "featuresTitle": "What you can do with Billpoint",
+        "features": [
+          {
+            "title": "Airtime & Data",
+            "description": "Top up any network instantly, for yourself or anyone else."
+          },
+          {
+            "title": "Electricity",
+            "description": "Buy prepaid units or pay postpaid bills without the queue."
+          },
+          {
+            "title": "Cable TV",
+            "description": "Renew your TV subscriptions in a few taps."
+          },
+          {
+            "title": "Secure Payments",
+            "description": "Every transaction is protected from start to finish."
+          }
+        ],
+        "links": {
+          "webAppUrl": "https://app.billpoint.co",
+          "websiteUrl": "https://billpoint.co",
+          "websiteLabel": "billpoint.co",
+          "appStoreUrl": "https://apps.apple.com/us/app/billpoint/id6741872401",
+          "playStoreUrl": "https://play.google.com/store/apps/details?id=co.billpoint.app"
+        }
+      },
+      {
+        "slug": "bitshop",
+        "name": "Bitshop",
+        "category": "Crypto Wallet",
+        "logo": "/assets/logo/bitshop-logo-2026.png",
+        "tagline": "Store, manage and trade your crypto securely.",
+        "summary": "Secure digital wallet for seamless crypto & Naira conversion.",
+        "description": "Bitshop is a digital wallet that lets you store and manage your cryptocurrencies securely, and trade them whenever you are ready. Move between crypto and naira with ease, all from one trusted app.",
+        "featuresTitle": "What you can do with Bitshop",
+        "features": [
+          {
+            "title": "Secure Wallet",
+            "description": "Keep your crypto assets safe in one place."
+          },
+          {
+            "title": "Buy & Sell Crypto",
+            "description": "Trade popular cryptocurrencies at competitive rates."
+          },
+          {
+            "title": "Fast Payouts",
+            "description": "Convert crypto to naira and get paid quickly."
+          },
+          {
+            "title": "Trusted Platform",
+            "description": "Backed by Blord Group's track record in fintech."
+          }
+        ],
+        "links": {
+          "appStoreUrl": "https://apps.apple.com/us/app/bitshop-2-0/id6743632819",
+          "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blordgroup.bitshop"
+        }
+      },
+      {
+        "slug": "blunt",
+        "name": "Blunt",
+        "category": "Gadgets & Accessories",
+        "logo": "/assets/logo/blunt-logo-s.png",
+        "tagline": "Quality gadgets and accessories you can trust.",
+        "summary": "Genuine phones, laptops and accessories at fair prices.",
+        "description": "Blunt Gadgets & Accessories brings you genuine phones, laptops and accessories at fair prices. Shop online or visit any of our stores for expert advice and after-sales support.",
+        "featuresTitle": "What you can do with Blunt",
+        "features": [
+          {
+            "title": "Phones & Tablets",
+            "description": "The latest devices from the brands you love."
+          },
+          {
+            "title": "Laptops & Accessories",
+            "description": "Everything you need for work, school and play."
+          },
+          {
+            "title": "Genuine Products",
+            "description": "Every item is authentic and quality checked."
+          },
+          {
+            "title": "Online & In Store",
+            "description": "Order online or walk into a Blunt store near you."
+          }
+        ],
+        "links": {
+          "websiteUrl": "https://bluntgadgets.com",
+          "websiteLabel": "bluntgadgets.com"
+        }
+      },
+      {
+        "slug": "famous",
+        "name": "Famous",
+        "category": "Social Media Growth",
+        "logo": "/assets/logo/famous-logo-2026.png",
+        "tagline": "Grow your social media presence, fast.",
+        "summary": "Audience and engagement growth for creators and brands.",
+        "description": "Famous helps creators, businesses and brands grow their audience and engagement across social media. Pick a plan, place your order and watch your reach grow.",
+        "featuresTitle": "What you can do with Famous",
+        "features": [
+          {
+            "title": "Real Growth",
+            "description": "Boost followers, likes and views on your platforms."
+          },
+          {
+            "title": "For Everyone",
+            "description": "Built for creators, small businesses and big brands."
+          },
+          {
+            "title": "Quick Delivery",
+            "description": "Orders start processing as soon as you pay."
+          },
+          {
+            "title": "Safe & Private",
+            "description": "We never ask for your account passwords."
+          }
+        ],
+        "links": {
+          "appStoreUrl": "https://apps.apple.com/us/app/famous-africa/id6744248678"
+        }
+      },
+      {
+        "slug": "b-cars",
+        "name": "B Cars",
+        "category": "Automobiles",
+        "logo": "/assets/logo/b-cars-s.png",
+        "tagline": "Buy and import quality cars with confidence.",
+        "summary": "Local purchase and full-assistance China-to-Nigeria car import.",
+        "description": "B Cars helps you find the right car, whether you are buying locally or importing. Our team sources and ships cars from China to Nigeria with full assistance at every step.",
+        "featuresTitle": "What you can do with B Cars",
+        "features": [
+          {
+            "title": "Quality Cars",
+            "description": "Carefully selected vehicles for every budget."
+          },
+          {
+            "title": "Car Import",
+            "description": "Source and ship cars from China to Nigeria."
+          },
+          {
+            "title": "Flexible Payment",
+            "description": "Pay in Naira, USDT or BTC."
+          },
+          {
+            "title": "Quality Check",
+            "description": "Every car is inspected before it is handed over."
+          }
+        ],
+        "links": {}
+      },
+      {
+        "slug": "dolla",
+        "name": "Dolla",
+        "category": "USD Virtual Cards",
+        "logo": "/assets/logo/dolla-logo-icon-s.png",
+        "tagline": "Spend in dollars anywhere online.",
+        "summary": "Licensed USD virtual cards funded with Naira or crypto.",
+        "description": "Dolla gives you a U.S. dollar virtual card for paying online, from subscriptions to international shopping. Fund your card with naira or crypto and spend globally without the hassle.",
+        "featuresTitle": "What you can do with Dolla",
+        "features": [
+          {
+            "title": "USD Virtual Card",
+            "description": "Create a dollar card in minutes."
+          },
+          {
+            "title": "Easy Funding",
+            "description": "Top up with naira or crypto."
+          },
+          {
+            "title": "Pay Globally",
+            "description": "Use your card on international websites and apps."
+          },
+          {
+            "title": "Licensed & Secure",
+            "description": "Backed by Blord Group's U.S. dollar virtual card licence."
+          }
+        ],
+        "links": {
+          "appStoreUrl": "https://apps.apple.com/us/app/dolla/id6661030456",
+          "playStoreUrl": "https://play.google.com/store/apps/details?id=com.delight.dolla"
+        }
+      }
+    ],
+    "cars": [
+      {
+        "id": "wuling-mini-ev",
+        "name": "Wuling Hongguang Mini EV",
+        "category": "Micro Urban EV",
+        "sizeClass": "Micro Compact · 2,920 × 1,493 × 1,621 mm",
+        "batteryCapacity": "13.8 – 26.5 kWh LFP Battery",
+        "rangeKm": "170 – 300 km",
+        "priceNgn": 15500000,
+        "status": "Available",
+        "image": "/assets/cars/wuling-mini-ev.jpg",
+        "highlights": [
+          "Ultra-low charging cost vs petrol",
+          "Compact 4-seat city commuter",
+          "Zero fuel & minimal maintenance",
+          "Pay in Naira, USDT, or BTC"
+        ]
+      },
+      {
+        "id": "byd-seagull",
+        "name": "BYD Seagull EV",
+        "category": "Compact City EV",
+        "sizeClass": "Compact Hatchback · 3,780 × 1,715 × 1,540 mm",
+        "batteryCapacity": "30.08 – 38.88 kWh BYD Blade Battery",
+        "rangeKm": "305 – 405 km",
+        "priceNgn": 24500000,
+        "status": "Available",
+        "image": "/assets/cars/byd-seagull.jpg",
+        "highlights": [
+          "DC Fast Charging (30% to 80% in 30 mins)",
+          "Rotating 10.1\" infotainment display",
+          "Direct China-to-Nigeria cleared import",
+          "Ideal urban & estate daily driver"
+        ]
+      },
+      {
+        "id": "byd-atto-3",
+        "name": "BYD Atto 3 Electric SUV",
+        "category": "Electric SUV",
+        "sizeClass": "Mid-Size SUV · 4,455 × 1,875 × 1,615 mm",
+        "batteryCapacity": "60.48 kWh BYD Blade Battery",
+        "rangeKm": "480 km",
+        "priceNgn": 39500000,
+        "status": "Available",
+        "image": "/assets/cars/byd-atto3.jpg",
+        "highlights": [
+          "0–100 km/h in 7.3 seconds (204 hp)",
+          "Panoramic sunroof & ADAS suite",
+          "High ground clearance for Nigerian roads",
+          "Full pre-shipment inspection in Guangzhou"
+        ]
+      },
+      {
+        "id": "byd-dolphin",
+        "name": "BYD Dolphin EV",
+        "category": "Hatchback EV",
+        "sizeClass": "Full Hatchback · 4,290 × 1,770 × 1,570 mm",
+        "batteryCapacity": "44.9 – 60.48 kWh Blade Battery",
+        "rangeKm": "420 km",
+        "priceNgn": 42000000,
+        "status": "Low Stock",
+        "image": "/assets/cars/byd-dolphin.jpg",
+        "highlights": [
+          "Spacious 5-passenger cabin & vegan leather",
+          "V2L Vehicle-to-Load external power output",
+          "12.8\" rotating smart screen",
+          "Naira, USDT & BTC settlement supported"
+        ]
+      },
+      {
+        "id": "deepal-s07",
+        "name": "Changan Deepal S07 EV",
+        "category": "Flagship Smart SUV",
+        "sizeClass": "Executive SUV · 4,750 × 1,930 × 1,625 mm",
+        "batteryCapacity": "66.8 – 79.97 kWh CATL Pack",
+        "rangeKm": "520 – 620 km",
+        "priceNgn": 54000000,
+        "status": "Pre-Order",
+        "image": "/assets/cars/deepal-s07.jpg",
+        "highlights": [
+          "Frameless doors & AR head-up display",
+          "Zero-gravity executive passenger seat",
+          "Rapid 3C charging architecture",
+          "Delivered via B Cars Lagos & Awka desks"
+        ]
+      },
+      {
+        "id": "byd-song-plus",
+        "name": "BYD Song Plus EV",
+        "category": "Electric SUV",
+        "sizeClass": "Full-Size SUV · 4,785 × 1,890 × 1,660 mm",
+        "batteryCapacity": "71.8 – 87.04 kWh Blade Battery",
+        "rangeKm": "520 – 605 km",
+        "priceNgn": 62000000,
+        "status": "Available",
+        "image": "/assets/cars/byd-song-plus.jpg",
+        "highlights": [
+          "Executive long-range family & fleet SUV",
+          "15.6\" DiLink smart cockpit",
+          "360° surround camera & ventilated seats",
+          "Priority RoRo / container shipping from China"
+        ]
+      }
+    ],
+    "powerTanks": [
+      {
+        "id": "blunt-10000w",
+        "name": "10000W Blunt Solar Generator",
+        "capacityWatt": "10,000W",
+        "storageSpec": "10.24 kWh LiFePO4 Heavy Power Tank",
+        "sizeDimensions": "Full Tower · 620 × 440 × 310 mm",
+        "priceNgn": 6420000,
+        "status": "Low Stock",
+        "image": "/assets/power-tanks/tank-10000w.jpg",
+        "appliances": "2HP Inverter AC, Deep Freezer, Refrigerator, Water Pump, StarLink, Full Office/Home Backup"
+      },
+      {
+        "id": "blunt-5000w",
+        "name": "5000W Blunt Power Generator",
+        "capacityWatt": "5,000W",
+        "storageSpec": "5.12 kWh LiFePO4 High-Output Tank",
+        "sizeDimensions": "Heavy Floor Unit · 540 × 380 × 280 mm",
+        "priceNgn": 3300000,
+        "status": "Available",
+        "image": "/assets/power-tanks/tank-5000w.jpg",
+        "appliances": "1.5HP Inverter AC, Double-Door Fridge, TVs, Fans, Workstations & Lighting"
+      },
+      {
+        "id": "blunt-3000w",
+        "name": "3000W Blunt Power Solar Generator",
+        "capacityWatt": "3,000W",
+        "storageSpec": "3.5 kWh LiFePO4 Solar Power Tank",
+        "sizeDimensions": "Mid-Size Station · 460 × 310 × 250 mm",
+        "priceNgn": 1880000,
+        "status": "Sold Out",
+        "image": "/assets/power-tanks/tank-3000w.jpg",
+        "appliances": "Home Refrigerator, 65\" Smart TV, StarLink Router, Fans, Laptops & LED Lights"
+      },
+      {
+        "id": "blunt-1500w",
+        "name": "1,500W Blunt Power Solar Generator",
+        "capacityWatt": "1,500W",
+        "storageSpec": "1.54 kWh LiFePO4 Power Tank",
+        "sizeDimensions": "Compact Case · 380 × 260 × 220 mm",
+        "priceNgn": 1260000,
+        "status": "Available",
+        "image": "/assets/power-tanks/tank-1500w.jpg",
+        "appliances": "Smart TV, Standing Fans, Wi-Fi Router, Multiple Laptops & Studio Lighting"
+      },
+      {
+        "id": "blunt-1000w",
+        "name": "1000W Blunt Power Solar Generator",
+        "capacityWatt": "1,000W",
+        "storageSpec": "1.02 kWh LiFePO4 Portable Tank",
+        "sizeDimensions": "Portable Cube · 340 × 230 × 200 mm",
+        "priceNgn": 1180000,
+        "status": "Low Stock",
+        "image": "/assets/power-tanks/tank-1000w.jpg",
+        "appliances": "TV, Laptop Workstations, StarLink/Fiber Router, Phones & Room Lighting"
+      },
+      {
+        "id": "blunt-50000mah",
+        "name": "Blunt 50,000mAh Ultra Power Tank",
+        "capacityWatt": "50,000mAh",
+        "storageSpec": "185 Wh Fast-Charge USB-C Power Bank",
+        "sizeDimensions": "Handheld Brick · 168 × 82 × 52 mm",
+        "priceNgn": 41300,
+        "status": "Available",
+        "image": "/assets/power-tanks/powerbank-50000mah.png",
+        "appliances": "Smartphones, iPads, Tablets, Mini Routers & USB-C Ultrabooks (Multi-Day Backup)"
+      },
+      {
+        "id": "blunt-5000mah",
+        "name": "Blunt 5,000mAh Slim Power Bank",
+        "capacityWatt": "5,000mAh",
+        "storageSpec": "18.5 Wh Compact Pocket Reserve",
+        "sizeDimensions": "Pocket Slim · 138 × 68 × 14 mm",
+        "priceNgn": 14000,
+        "status": "Available",
+        "image": "/assets/power-tanks/powerbank-5000mah.png",
+        "appliances": "Everyday Pocket Top-Ups for iPhones, Android Phones & Wireless Earbuds"
+      },
+      {
+        "id": "powerbank-1795632707150",
+        "name": "Blunt Fast-Charge Power Bank 30,000mAh",
+        "capacityWatt": "30,000mAh",
+        "storageSpec": "111 Wh USB-C PD Portable Power Bank",
+        "sizeDimensions": "Pocket Brick · 155 × 76 × 38 mm",
+        "priceNgn": 32000,
+        "status": "Available",
+        "image": "/assets/power-tanks/powerbank-50000mah.png",
+        "appliances": "Smartphones, iPads, Routers & USB-C Laptops"
+      }
+    ],
+    "about": {
+      "eyebrow": "About Us",
+      "missionTitle": "Our Mission",
+      "missionPoints": [
+        "Redefine finance and technology through creative innovation and accessible digital solutions.",
+        "Build trusted brands across fintech, real estate, and lifestyle sectors that reflect integrity, excellence, and reliability.",
+        "Empower people and communities by creating opportunities, inspiring entrepreneurship, and driving inclusive economic growth.",
+        "Bridge the gap between traditional finance and modern technology, making financial freedom possible for everyone."
+      ],
+      "visionTitle": "Our Vision",
+      "visionStatement": "To become Africa's leading technology driven conglomerate, empowering individuals and businesses through innovative financial solutions, sustainable investments, and world class digital experiences that inspire growth and create lasting impact.",
+      "awardsEyebrow": "Recognition & Awards",
+      "awardsTitle": "Awards & Philanthropy",
+      "awardsSubtitle": "Recognized for excellence in fintech innovation while making meaningful contributions to our communities",
+      "awards": [
+        {
+          "id": "award-1",
+          "title": "Recognition awards to CEO",
+          "recipient": "Linus Williams",
+          "image": "/assets/images/award.jpg",
+          "alt": "Recognition awards to CEO",
+          "summary": "Honoring executive leadership, community impact, and trailblazing contributions to financial technology."
+        },
+        {
+          "id": "award-2",
+          "title": "Youth Influencer of the year",
+          "recipient": "Linus Williams",
+          "image": "/assets/images/award2.jpg",
+          "alt": "Youth Influencer of the year",
+          "summary": "Celebrating youth entrepreneurship, empowerment initiatives, and digital inclusion across Nigeria."
+        },
+        {
+          "id": "award-3",
+          "title": "Distinguished Achievements",
+          "recipient": "Linus Williams",
+          "image": "/assets/images/award3.jpg",
+          "alt": "Distinguished Achievements",
+          "summary": "Awarded for sustained business excellence, institutional resilience, and multi-sector expansion."
+        }
+      ],
+      "historyEyebrow": "Our History",
+      "historyTitle": "A Journey of Innovation & Impact",
+      "historySubtitle": "Since 2019, our story has been one of bold ideas, enduring values, and a relentless pursuit of progress that uplifts communities.",
+      "historyParagraphs": [
+        "Founded in 2019, BlordGroup is a leading Nigerian fintech and investment company driven by innovation, integrity, and a vision to empower lives through technology and enterprise.",
+        "Established under the leadership of Chief Williams Linus (Blord), the company began as a cryptocurrency trading firm and has since evolved into a diversified business group with interests spanning fintech, real estate, luxury gadgets, automobiles, and lifestyle solutions.",
+        "Over the years, BlordGroup has built a strong reputation for transparency, trust, and forward-thinking business practices. The company's growth journey is marked by major milestones - including the official certification of Blord Real Estate Limited, launching of different apps like; Billpoint, Famous, Bitshop and the launch of Blunt Gadgets & Accessories and the expansion of its physical presence with a new headquarters in Awka and branches in Abuja, Lagos, Benin, Porthacourt, Asaba, Owerri, Enugu, Aba and China.",
+        "In 2022, BlordGroup achieved a notable legal victory against the EFCC, which reinforced its credibility, integrity, and commitment to ethical operations. The company has also expanded its fintech capabilities by securing a U.S. Dollar Virtual Card license, enabling seamless integration between cryptocurrency and naira payments, a move that underscores its leadership in Nigeria's digital finance revolution.",
+        "Today, BlordGroup continues to redefine possibilities through innovation, excellence, and strategic growth, serving as a trusted brand that connects technology, finance, and lifestyle across Africa and beyond."
+      ],
+      "dedicationTitle": "Dedication",
+      "dedicationParagraphs": [
+        "This history is dedicated to the vision, resilience, and innovation that define BlordGroup. From its humble beginnings in 2019 to its expansion across multiple industries, the company stands today as a testimony of what determination and creativity can achieve.",
+        "To our founder, Chief Williams Linus, and every member of the Blord Group family, your passion, creativity, and dedication continue to drive a legacy of impact, growth, and transformation in the global fintech space."
+      ],
+      "principlesEyebrow": "Our Guiding Principles",
+      "principlesTitle": "Core Values That Define Us",
+      "principlesSubtitle": "We are driven by integrity, innovation, and excellence — values that shape our culture, guide our decisions, and inspire us to create lasting impact.",
+      "principles": [
+        {
+          "id": "integrity",
+          "title": "Integrity",
+          "description": "We operate with honesty, transparency, and accountability in all our dealings."
+        },
+        {
+          "id": "innovation",
+          "title": "Innovation",
+          "description": "We constantly push boundaries to deliver smarter, faster, and more efficient solutions."
+        },
+        {
+          "id": "excellence",
+          "title": "Excellence",
+          "description": "We set high standards and consistently strive to exceed expectations."
+        },
+        {
+          "id": "empowerment",
+          "title": "Empowerment",
+          "description": "We believe in creating opportunities that uplift people and strengthen communities."
+        }
+      ],
+      "boardMembers": [
+        {
+          "id": 1,
+          "name": "Linus Williams (Blord)",
+          "role": "CEO",
+          "image": "/assets/team/ceo-office.jpg",
+          "alt": "Linus Williams (Blord) - CEO",
+          "email": "Ceo@blordholdings.com",
+          "phone": "+234 802 888 8488"
+        },
+        {
+          "id": 9,
+          "name": "Ojiosom Clinton",
+          "role": "Co-Founder",
+          "image": "/assets/team/clinton.jpg",
+          "alt": "Ojiosom Clinton - Co-Founder",
+          "email": "Clinton@blordholdings.com",
+          "phone": "09169404701"
+        },
+        {
+          "id": 2,
+          "name": "Onwumelu Jessica",
+          "role": "General Manager",
+          "image": "/assets/team/onwumelu-jessica.jpeg",
+          "alt": "Onwumelu Jessica - General Manager",
+          "email": "Gmd@blordholdings.com",
+          "phone": "+234 802 600 0032"
+        },
+        {
+          "id": 6,
+          "name": "Agwuike Maryagnes",
+          "role": "Human Resources Manager",
+          "image": "/assets/team/agwuike-maryagnes.jpeg",
+          "alt": "Agwuike Maryagnes - Human Resources Manager",
+          "email": "Hr@blordholdings.com",
+          "phone": "+234 802 600 0075"
+        },
+        {
+          "id": 5,
+          "name": "Anadi Chinaza",
+          "role": "Chief Marketing Officer",
+          "image": "/assets/team/anadi-chinaza.png",
+          "alt": "Anadi Chinaza - Chief Marketing Officer",
+          "email": "cmo@blordholdings.com",
+          "phone": "+234 704 241 6507"
+        },
+        {
+          "id": 4,
+          "name": "Onwudinjo Favour",
+          "role": "Product Manager",
+          "image": "/assets/team/onwudinjo-favour.jpeg",
+          "alt": "Onwudinjo Favour - Product Manager",
+          "email": "Productmanager@blordgrouphq.co",
+          "phone": "+234 903 921 8031"
+        },
+        {
+          "id": 7,
+          "name": "Oguejiofor Blossom",
+          "role": "CEO's Personal Assistant",
+          "image": "/assets/team/oguejiofor-blossom.jpeg",
+          "alt": "Oguejiofor Blossom - CEO's Personal Assistant",
+          "email": "pa@blordholdings.com"
+        },
+        {
+          "id": 10,
+          "name": "Chukwuweta Ifunanya C.",
+          "role": "Customer Relations Officer",
+          "image": "/assets/team/chukwuweta-ifunanya.jpeg",
+          "alt": "Chukwuweta Ifunanya C. - Customer Relations Officer",
+          "email": "cro@blordholdings.com",
+          "phone": "+234 802 500 0083"
+        },
+        {
+          "id": 3,
+          "name": "Ugwu Jacqueline",
+          "role": "Head of Business",
+          "image": "/assets/team/ugwu-jacqueline.png",
+          "alt": "Ugwu Jacqueline - Head of Business",
+          "email": "business@blordholdings.com",
+          "phone": "+234 703 001 0647"
+        },
+        {
+          "id": 11,
+          "name": "Odey Faith Claire",
+          "role": "Head of Operations / Compliance",
+          "image": "/assets/team/odey-faith.jpeg",
+          "alt": "Odey Faith Claire - Head of Operations / Compliance",
+          "email": "compliance@blordholdings.com",
+          "phone": "+234 903 647 7571"
+        },
+        {
+          "id": 12,
+          "name": "Vincent Victor",
+          "role": "General Accountant",
+          "image": "/assets/team/vincent-victor.jpeg",
+          "alt": "Vincent Victor - General Accountant",
+          "email": "accountant@blordholdings.com",
+          "phone": "+234 814 128 7417"
+        },
+        {
+          "id": 13,
+          "name": "Abasifreke Essien",
+          "role": "Chief Technology Officer (CTO)",
+          "image": "/assets/team/abasifreke-essien.jpeg",
+          "alt": "Abasifreke Essien - Chief Technology Officer (CTO)"
+        },
+        {
+          "id": 8,
+          "name": "Onuchukwu Amarachi",
+          "role": "Procurement Manager",
+          "image": "/assets/team/onuchukwu-amarachi.jpeg",
+          "alt": "Onuchukwu Amarachi - Procurement Manager",
+          "email": "procurement@blordholdings.com",
+          "phone": "08025000044"
+        },
+        {
+          "id": 15,
+          "name": "Nwalieji Precious",
+          "role": "Accountant II",
+          "image": "/assets/team/nwalieji-precious.jpeg",
+          "alt": "Nwalieji Precious - Accountant II"
+        },
+        {
+          "id": 16,
+          "name": "Obizor Peculiar Ifunanya",
+          "role": "Real Estate Manager",
+          "image": "/assets/team/obizor-peculiar.jpeg",
+          "alt": "Obizor Peculiar Ifunanya - Real Estate Manager",
+          "phone": "08026000095"
+        },
+        {
+          "id": 14,
+          "name": "Ezeifeoma Julliet",
+          "role": "Executive Assistant II",
+          "image": "/assets/team/ezeifeoma-julliet.jpeg",
+          "alt": "Ezeifeoma Julliet - Executive Assistant II"
+        }
+      ],
+      "groupPhotos": [
+        {
+          "id": 1,
+          "image": "/assets/team/group-1.jpeg",
+          "alt": "Blord Group Team Photo 1"
+        },
+        {
+          "id": 2,
+          "image": "/assets/team/group-2.jpeg",
+          "alt": "Blord Group Team Photo 2"
+        },
+        {
+          "id": 3,
+          "image": "/assets/team/group-3.jpeg",
+          "alt": "Blord Group Team Photo 3"
+        },
+        {
+          "id": 4,
+          "image": "/assets/team/group-4.jpeg",
+          "alt": "Blord Group Team Photo 4"
+        },
+        {
+          "id": 5,
+          "image": "/assets/team/group-5.jpeg",
+          "alt": "Blord Group Team Photo 5"
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Get in Touch · Our Locations",
+      "title": "Visit Our Offices",
+      "subtitle": "We have offices across Nigeria and China to serve you better. Select any branch below to inspect its exact building location or launch turn-by-turn Google Maps navigation.",
+      "supportEmail": "cro@blordholdings.com",
+      "supportPhone": "+234 802 500 0083",
+      "procurementEmail": "procurement@blordholdings.com",
+      "branches": [
+        {
+          "id": "awka-hq",
+          "name": "Blordgroup Head Office",
+          "badge": "HQ",
+          "region": "Awka, Nigeria",
+          "address": "No 29 Dr okey Anueyiagu road, along Regina road Awka.",
+          "phone": "+234 802 500 0083",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "No 29 Dr Okey Anueyiagu Road, along Regina Caeli Road, Awka, Anambra State, Nigeria",
+          "landmarkHint": "Along Regina Caeli Road, Awka"
+        },
+        {
+          "id": "abuja",
+          "name": "Blordgroup Abuja Branch",
+          "region": "Abuja, Nigeria",
+          "address": "Aminu kano Cresent GCL plaza",
+          "phone": "09077312373",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "GCL Plaza, Aminu Kano Crescent, Wuse II, Abuja, Nigeria",
+          "landmarkHint": "GCL Plaza, Aminu Kano Crescent, Wuse II"
+        },
+        {
+          "id": "lagos",
+          "name": "Blordgroup Lagos Branch",
+          "region": "Lagos, Nigeria",
+          "address": "Suite 5 Casa Kaysora, Plot 8 Adewunmi Drive, Lekki Phase 1 Lagos",
+          "phone": "+234 704 341 7522",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "Casa Kaysora, Plot 8 Adewunmi Drive, Lekki Phase 1, Lagos, Nigeria",
+          "landmarkHint": "Casa Kaysora Building, Plot 8 Adewunmi Drive, Lekki Phase 1"
+        },
+        {
+          "id": "port-harcourt",
+          "name": "Blordgroup Port Harcourt Branch",
+          "region": "Rivers, Nigeria",
+          "address": "No 30 Sani Abacha Road, The Autograph Mall",
+          "phone": "+234 813 293 6753",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "The Autograph Mall, No 30 Sani Abacha Road, Port Harcourt, Rivers State, Nigeria",
+          "landmarkHint": "The Autograph Mall, Sani Abacha Road"
+        },
+        {
+          "id": "asaba",
+          "name": "Blordgroup Asaba Branch",
+          "region": "Delta, Nigeria",
+          "address": "Suite 48, First Edition Plaza, opposite SPC Nnebisi road Asaba, Delta State",
+          "phone": "+234 816 380 2690",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "First Edition Plaza, opposite SPC, Nnebisi Road, Asaba, Delta State, Nigeria",
+          "landmarkHint": "First Edition Plaza, directly opposite SPC on Nnebisi Road"
+        },
+        {
+          "id": "benin",
+          "name": "Blordgroup Benin Branch",
+          "region": "Edo, Nigeria",
+          "address": "55 Akenzua street off airport Road by brother pius school",
+          "phone": "+234 707 859 0603",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "55 Akenzua Street, off Airport Road, Benin City, Edo State, Nigeria",
+          "landmarkHint": "Off Airport Road by Brother Pius School"
+        },
+        {
+          "id": "imo",
+          "name": "Blordgroup Imo Branch",
+          "region": "Imo, Nigeria",
+          "address": "Suite 404 Munachim Plaza, Douglas Road by Wedral Junction, Owerri, Imo State",
+          "phone": "+234 903 479 2349",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "Munachim Plaza, Douglas Road by Wetheral Junction, Owerri, Imo State, Nigeria",
+          "landmarkHint": "Munachim Plaza (Suite 404), Douglas Road by Wedral Junction"
+        },
+        {
+          "id": "enugu",
+          "name": "Blordgroup Enugu Branch",
+          "region": "Enugu, Nigeria",
+          "address": "Shop 14, Longspur Mall, beside Enyo fuel station, Ogui Road, Enugu",
+          "phone": "+234 802 555 5355",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "Longspur Mall, Ogui Road, Enugu, Nigeria",
+          "landmarkHint": "Longspur Mall (Shop 14), beside Enyo Fuel Station, Ogui Road"
+        },
+        {
+          "id": "abia",
+          "name": "Blordgroup Abia Branch",
+          "region": "Abia, Nigeria",
+          "address": "Shop 073 Angela Concepts & Plaza Ltd., Express Junction, Ariaria, Aba, Abia State",
+          "phone": "+234 903 002 0690",
+          "email": "cro@blordholdings.com",
+          "mapQuery": "Angela Concepts Plaza, Express Junction, Ariaria, Aba, Abia State, Nigeria",
+          "landmarkHint": "Angela Concepts & Plaza Ltd. (Shop 073), Express Junction, Ariaria"
+        },
+        {
+          "id": "china",
+          "name": "Blordgroup China",
+          "badge": "INT",
+          "region": "Guangzhou, China",
+          "address": "Office 5106, Floor 5, GuoTai International Trade Market, Yuexiu District, Guangzhou, China",
+          "phone": "+234 802 500 0088",
+          "email": "procurement@blordholdings.com",
+          "mapQuery": "GuoTai International Trade Market, Yuexiu District, Guangzhou, Guangdong, China",
+          "landmarkHint": "Office 5106, Floor 5, GuoTai International Trade Market"
+        }
+      ],
+      "socials": [
+        {
+          "id": "instagram",
+          "platform": "Instagram",
+          "handle": "@blordholdingsltd",
+          "href": "https://www.instagram.com/blordholdingsltd"
+        },
+        {
+          "id": "facebook",
+          "platform": "Facebook",
+          "handle": "Blord Group",
+          "href": "https://www.facebook.com/share/1BmqgEzToL/?mibextid=wwXIfr"
+        },
+        {
+          "id": "x",
+          "platform": "X",
+          "handle": "@blordholdings",
+          "href": "https://x.com/blordholdings"
+        },
+        {
+          "id": "tiktok",
+          "platform": "TikTok",
+          "handle": "@blordgroupltd",
+          "href": "https://www.tiktok.com/@blordgroupltd"
+        }
+      ]
+    },
+    "footerDescription": "Blord Group is a registered Fintech company committed to redefining financial services in Nigeria.",
+    "copyrightText": "© 2026 Blord Group. All Rights Reserved."
+  },
+  "inquiries": [],
+  "subscribers": [],
+  "updatedAt": "2026-11-25T18:53:58.494Z"
+}

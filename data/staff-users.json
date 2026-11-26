@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ff2a61df-8997-4439-9a00-6fd5c387c214",
+    "name": "Tunde Adeyemi",
+    "email": "tunde.tech@blordholdings.com",
+    "department": "ict-tech",
+    "branchId": "lagos",
+    "title": "ICT & Tech Department",
+    "salt": "ef13d9a5462aea2e632ebe800fa206a3",
+    "passwordHash": "7db9a1638e95fc1d97ffd135ce3dee74f1cb8f97a3cab9d7507ed33f61258ccdcec07b6c5b55dbada0f15aaa16cd9165d29abba1e2d22da1dd9050e01e73e554",
+    "active": true,
+    "createdAt": "2026-11-25T18:48:21.114Z",
+    "lastTab": "directory"
+  },
+  {
+    "id": "0f770875-547f-4b39-9696-98abbb8ded8f",
+    "name": "Chinedu Okonkwo",
+    "email": "chinedu.sales@blordholdings.com",
+    "department": "sales",
+    "branchId": "abuja",
+    "title": "Sales Department",
+    "salt": "88ddb31b03a072db91e84e2738b7b624",
+    "passwordHash": "f69ef2eb76e373e4db237e46853ca20a62e918b643a3da7b60df933641aa9d960c3ed6729d70500d1f33eee58428d2070512dd902e5d94204463b4bacb75e715",
+    "active": true,
+    "createdAt": "2026-11-25T18:47:17.979Z"
+  }
+]

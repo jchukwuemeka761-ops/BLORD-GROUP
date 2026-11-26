@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-brand: #fe6d2c;
+  --color-brand-glow: #ff8e47;
+  --color-obsidian: #07090e;
+  --color-obsidian-surface: #0f131c;
+  --color-obsidian-elevated: #151b28;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #07090e;
+    color: #f4f5f7;
+  }
+
+  body {
+    overflow-x: hidden;
+    background-color: #07090e;
+    color: #f4f5f7;
+  }
+}
+
+/* Subtle GPU-composited floating background keyframes */
+@keyframes floatSlowA {
+  0%, 100% {
+    transform: translate3d(0px, 0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate3d(42px, -34px, 0px) scale(1.06);
+  }
+  66% {
+    transform: translate3d(-28px, 24px, 0px) scale(0.96);
+  }
+}
+
+@keyframes floatSlowB {
+  0%, 100% {
+    transform: translate3d(0px, 0px, 0px) scale(1);
+  }
+  33% {
+    transform: translate3d(-46px, 28px, 0px) scale(0.95);
+  }
+  66% {
+    transform: translate3d(32px, -36px, 0px) scale(1.05);
+  }
+}
+
+@keyframes floatSlowC {
+  0%, 100% {
+    transform: translate3d(0px, 0px, 0px) scale(1);
+  }
+  50% {
+    transform: translate3d(26px, 32px, 0px) scale(1.04);
+  }
+}
+
+.animate-float-a {
+  animation: floatSlowA 22s ease-in-out infinite;
+  will-change: transform;
+}
+
+.animate-float-b {
+  animation: floatSlowB 26s ease-in-out infinite;
+  will-change: transform;
+}
+
+.animate-float-c {
+  animation: floatSlowC 19s ease-in-out infinite;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-a,
+  .animate-float-b,
+  .animate-float-c {
+    animation: none !important;
+  }
+}
